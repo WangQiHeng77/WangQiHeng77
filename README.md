@@ -41,7 +41,6 @@ Source repository: <https://github.com/CommanWang/CommanWang>
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <!-- <img width="400" src="https://streak-stats.demolab.com?user=CommanWang&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
     <!-- self-host in Vercel -->
-    <img width="400" src="https://github-readme-streak-stats-CommanWang.vercel.app?user=CommanWang&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" />
 </p>
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
