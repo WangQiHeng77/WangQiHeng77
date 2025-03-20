@@ -1,7 +1,7 @@
 <!--
 MIT License
 
-Copyright (c) 2024 CommanWang
+Copyright (c) 2024 WangQiHeng77
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -23,7 +23,7 @@ SOFTWARE.
 
 ATTENTION:
 
-Source repository: <https://github.com/CommanWang/CommanWang>
+Source repository: <https://github.com/WangQiHeng77/WangQiHeng77>
 -->
 
 <p align="center">
@@ -37,14 +37,14 @@ Source repository: <https://github.com/CommanWang/CommanWang>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=CommanWang&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=WangQiHeng77&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <!-- <img width="400" src="https://streak-stats.demolab.com?user=CommanWang&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
+    <!-- <img width="400" src="https://streak-stats.demolab.com?user=WangQiHeng77&theme=transparent&hide_border=true" alt="Streak Stats" title="Streak Stats" /> -->
     <!-- self-host in Vercel -->
 </p>
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=CommanWang&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=WangQiHeng77&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
 </p>
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
@@ -56,9 +56,9 @@ Source repository: <https://github.com/CommanWang/CommanWang>
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
-    <a href="https://github.com/CommanWang"><img src="https://img.shields.io/badge/GitHub-CommanWang-purple?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="https://github.com/WangQiHeng77"><img src="https://img.shields.io/badge/GitHub-WangQiHeng77-purple?logo=github" alt="GitHub" title="GitHub" /></a>
     <a href="https://space.bilibili.com/392134706?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/哔哩哔哩-他山之石77-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
-    <a href="https://gitee.com/CommanWang"><img src="https://img.shields.io/badge/知乎-他山之石-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
+    <a href="https://gitee.com/WangQiHeng77"><img src="https://img.shields.io/badge/知乎-他山之石-blue?logo=gitee" alt="Gitee" title="Gitee" /></a>
     <a href="https://www.youtube.com/channel/UC2mufMCGyX7ytDPj9HARg4g"><img src="https://img.shields.io/badge/Youtube-mark wang-red?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
     
     
